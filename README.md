@@ -6,22 +6,22 @@ https://refactoring.guru/design-patterns/python
 <br>
 
 
-## 1주차 24/08/02 ~ 24/08/09
+## 1주차 24/08/05 ~ 24/08/11
 - 생성 패턴: **Abstract Factory, Singleton**
 - 구조 패턴: **Adapter**
 - 행동 패턴: **Iterator**
 
-## 2주차 24/08/09 ~ 24/08/16
+## 2주차 24/08/12 ~ 24/08/18
 - 생성 패턴: **Builder**
 - 구조 패턴: **Decorator**
 - 행동 패턴: **Command**
 
-## 3주차 24/08/16 ~ 24/08/23
+## 3주차 24/08/19 ~ 24/08/25
 - 생성 패턴: **Factory Method**
 - 구조 패턴: **Composite**
 - 행동 패턴: **Observer**
 
-## 4주차 24/08/23 ~ 24/08/30
+## 4주차 24/08/26 ~ 24/09/01
 - 생성 패턴: **Prototype**
 - 구조 패턴: **Facade**
 - 행동 패턴: **Template Method, State**
