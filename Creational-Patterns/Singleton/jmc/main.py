@@ -62,4 +62,4 @@ doc2 = "2번 문서"
 j.print_document(doc2)
 
 j.get_ready_docs()
-# ['2번 문서']
+# ['1번 문서', '2번 문서']
